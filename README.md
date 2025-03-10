@@ -72,9 +72,3 @@ We welcome contributions! Please see our contributing guidelines for more detail
 ## 📧 Contact
 
 For inquiries, suggestions, or contributions, please contact us at [contact@diwan-poetry.com](mailto:contact@diwan-poetry.com)
-
----
-
-```plaintext
-
-```
