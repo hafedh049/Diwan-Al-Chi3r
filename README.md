@@ -1,4 +1,3 @@
-Thought for 1 second```markdown
 # Diwan (ديوان) - Arabic Poetry Platform
 
 ![Diwan Hero](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%28107%29-IuWFjNKT5g9WpABhGcAgFOYduUYRAo.png)
